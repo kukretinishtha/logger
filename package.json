@@ -1,0 +1,19 @@
+{
+  "name": "logger",
+  "version": "1.0.0",
+  "description": "This will generate logs for the application.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kukretinishtha/logger.git"
+  },
+  "author": "kukretinishtha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kukretinishtha/logger/issues"
+  },
+  "homepage": "https://github.com/kukretinishtha/logger#readme"
+}
